@@ -6,7 +6,7 @@
 
 2. **Navigate to the Project Directory:**
    ```sh
-   cd youtube-data-analysis
+   cd Youtube-Data-Analysis
    ```
 
 3. **Create and Activate a Virtual Environment:**
