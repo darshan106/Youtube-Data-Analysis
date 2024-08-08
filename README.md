@@ -1,7 +1,7 @@
 1. **Clone the Repository:**
    First, clone the repository to your local machine:
    ```sh
-   git clone https://github.com/your-username/youtube-data-analysis.git
+   git clone https://github.com/darshan106/youtube-data-analysis.git
    ```
 
 2. **Navigate to the Project Directory:**
@@ -31,7 +31,7 @@
    jupyter notebook
    ```
 
-   Open the `YouTube_Data_Analysis.ipynb` notebook in your browser.
+   Open the `TamilTechChannels-Analysis.ipynb` notebook in your browser.
 
 7. **Add Your YouTube API Key:**
    In the Jupyter Notebook, locate the cell where the API key is set and replace `'YOUR_API_KEY'` with your actual API key.
