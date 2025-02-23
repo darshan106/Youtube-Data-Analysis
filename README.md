@@ -91,4 +91,4 @@
 - **Content Themes:** Word clouds help identify common themes and keywords in video titles and descriptions.
 - **Upload Patterns:** Monthly upload frequency analysis reveals the consistency and scheduling of content production.
 
-By following these steps and running the notebook, you can perform a comprehensive analysis of multiple YouTube channels, gaining valuable insights into their performance and content strategies.
+By following these above steps and running the notebook, you can perform a comprehensive analysis of multiple YouTube channels, gaining valuable insights into their performance and content strategies.
